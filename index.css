@@ -16,6 +16,14 @@ h3 {
   line-height:1.2
 }
 
+p {
+  line-height: 1.4;
+}
+
+code {
+  line-height: 1.4;
+}
+
 .row {
   display: flex;
 }
